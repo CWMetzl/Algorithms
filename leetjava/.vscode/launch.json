@@ -1,0 +1,77 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "RearrangeArray",
+      "request": "launch",
+      "mainClass": "RearrangeArray",
+      "projectName": "leetjava_c3d4e24a"
+    },
+    {
+      "type": "java",
+      "name": "MysteryBox",
+      "request": "launch",
+      "mainClass": "MysteryBox",
+      "projectName": "leetjava_c3d4e24a"
+    },
+    {
+      "type": "java",
+      "name": "ArrayTwoPointer",
+      "request": "launch",
+      "mainClass": "ArrayTwoPointer",
+      "projectName": "leetjava_c3d4e24a"
+    },
+    {
+      "type": "java",
+      "name": "Dynamic",
+      "request": "launch",
+      "mainClass": "Dynamic",
+      "projectName": "leetjava_c3d4e24a"
+    },
+    {
+      "type": "java",
+      "name": "calculateCanJump",
+      "request": "launch",
+      "mainClass": "calculateCanJump",
+      "projectName": "leetjava_c3d4e24a"
+    },
+    {
+      "type": "java",
+      "name": "jumper",
+      "request": "launch",
+      "mainClass": "jumper",
+      "projectName": "leetjava_c3d4e24a"
+    },
+    {
+      "type": "java",
+      "name": "calculateMaxProfit",
+      "request": "launch",
+      "mainClass": "calculateMaxProfit",
+      "projectName": "leetjava_c3d4e24a"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "Solution",
+      "projectName": "leetjava_c3d4e24a"
+    },
+    {
+      "type": "java",
+      "name": "Launch Solution",
+      "request": "launch",
+      "mainClass": "Solution",
+      "projectName": "leetjava"
+    }
+  ]
+}

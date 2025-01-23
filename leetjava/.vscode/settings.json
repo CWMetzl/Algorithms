@@ -1,0 +1,10 @@
+{
+  "java.configuration.runtimes": [
+    {
+      "name": "OpenJDK-21",
+      "path": "/usr/lib/jvm/java-21-openjdk-amd64",
+      "default": true
+  }
+  ],
+  "java.debug.settings.onBuildFailureProceed": true
+}
